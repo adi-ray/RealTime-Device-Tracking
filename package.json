@@ -1,7 +1,7 @@
 {
   "name": "realtime-device-track",
   "version": "1.0.0",
-  "description": "",
+  "description": "A real-time device tracking application built with **Node.js**, **Express**, **Socket.IO**, and **Leaflet**. This application enables users to track their devices' location on a map in real-time using geolocation.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
